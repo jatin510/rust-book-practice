@@ -1,0 +1,1 @@
+/Users/jagdishparihar/Documents/practice/rust/rust-book/getting-started/hello_cargo/target/debug/hello_cargo: /Users/jagdishparihar/Documents/practice/rust/rust-book/getting-started/hello_cargo/src/main.rs
